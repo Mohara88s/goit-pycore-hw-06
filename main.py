@@ -128,5 +128,5 @@ if __name__ == "__main__":
         print(john) # Виведення: Contact name: John, phones: 1112223333; 5555555555
             
     except Exception as e:
-    # Обробка будь-якого іншого винятку
+    # Обробка будь-якого винятку
         print(f"An error occurred: {e}")
